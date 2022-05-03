@@ -438,105 +438,37 @@ given below. Feel free to explore more awards and let us know if you
 find something worth applying for which is not present in this list; we
 will add it.
 
-::: center
-::: longtable
-p5cm\|p3cm\|p2cm\|p3cm\|p2cm **Award/Scholarship/Grant** &
-**Eligibility** & **Award** & **Deadline** & **Past winners**\
-\
-\
-[*CGS
-M*](https://www.grad.ubc.ca/awards/canada-graduate-scholarships-masters-cgs-m-program)
-& Masters (Canadian citizen or PR) & \$17500 & Early December &\
-[*CGS
-D*](https://www.grad.ubc.ca/awards/canada-graduate-scholarships-doctoral-cgs-d-program)
-& PhD (Canadian citizen or PR) & \$35000 & Mid September &\
-[*PGS
-D*](https://www.grad.ubc.ca/awards/nserc-postgraduate-scholarships) &
-PhD (Canadian citizen or PR) & \$21000 & Mid September & Cassandra\
-[*Vanier
-Scholarship*](https://www.grad.ubc.ca/awards/vanier-scholarship) & PhD &
-\$50000 & Early September &\
-[*Affiliated Fellowship Doctoral
-Program*](https://www.grad.ubc.ca/awards/affiliated-fellowships-doctoral-program)
-& PhD & \$175 to \$30000 & Mid September &\
-[*Affiliated Fellowship Master's
-Program*](https://www.grad.ubc.ca/awards/affiliated-fellowships-masters-program)
-& Masters & \$175 to \$16,000 & Early December &\
-[*Graduate Student Travel and Research Dissemination
-Fund*](https://www.grad.ubc.ca/awards/graduate-student-travel-research-dissemination-fund)
-& Graduate & Max \$500 & Year-round application &\
-\
-\
-[*Bradley-Alavi Student
-Fellowship*](https://www.snmmi.org/AboutSNMMI/Content.aspx?ItemNumber=24724)
-& Graduate & \$3000 & February & Hassan, Saeed, Yansong\
-[*Medical & Science Student Research
-Grant*](https://app.smarterselect.com/programs/68664-Society-Of-Nuclear-Medicine-And-Molecular-Imaging)
-& Early graduate students & \$5000 & February & Shadab\
-\
-\
-[*AAPM / RSNA Doctoral and Masters Graduate
-Fellowship*](https://gaf.aapm.org/) & MSc/PhD students, enrolled in
-CAMPEP track & \$10000 & Mid April &\
-[*AAPM Expanding Horizons Travel
-Grant*](https://www.aip.org/news/2015/aapm-expanding-horizons-travel-grants)
-& & \$1000 (travel grants) & September & Saeed, Cassandra\
-[*Research Seed Funding
-Grant*](http://gaf.aapm.org/documents/programs/templates/63/home-page-flyer-7768.pdf)
-& Post-docs \<5 years after PhD & \$25000 (but not for salary) & May &\
-\
-\
-[*Glenn Knoll Award*](https://ieee-npss.org/awards/npss-awards/) &
-Graduate/Post-doc + Member of IEEE and NPSS & \$5000 & End January &\
-[*Graduate Scholarship
-Award*](https://ieee-npss.org/awards/npss-awards/) & Graduate student in
-Nuclear and Plasma Sciences. & \$15000 & End January &\
-[*Early Achievement Award*](https://ieee-npss.org/awards/npss-awards/) &
-IEEE NPSS Member (within first 10 years in the field) & \$3000 & End
-January &\
-\
-\
-[*Scholar
-program*](https://www.msfhr.org/1/fundingprogram/scholar-program) &
-Post-docs & \$90000/year for 5 years & December/January &\
-[*Research Trainee
-program*](https://www.msfhr.org/1/fundingprogram/research-trainee-program)
-& Post-docs & \$45000/year for 3 years & December/February &\
-\
-\
-[*Innovation in Technology
-Award*](https://wagsonline.org/technology-award-announcement/) &
-Graduate & \$1000 & October (internally, September) &\
-[*Distinguished Master's Thesis Award in
-STEM*](https://wagsonline.org/outstanding-thesis-stem-award/) & Masters
-& \$1000 & October (internally, September) &\
-& & & &\
-\
-[*Nvidia Graduate
-Fellowship*](https://www.nvidia.com/en-us/research/graduate-fellowships/)
-& PhDs beyond first year & \$50000 & September &\
+| \textbf{Award/Scholarship/Grant}                                                                                                                                          | \textbf{Eligibility}                                  | \textbf{Award}                                | \textbf{Deadline}               | \textbf{Past winners}  |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|-----------------------------------------------|---------------------------------|------------------------|
+| \href{https://www.grad.ubc.ca/awards/canada-graduate-scholarships-masters-cgs-m-program}{\textit{CGS M}}                                                                  | Masters (Canadian citizen or PR)                      | \$17500                                       | Early December                  |                        |
+| \href{https://www.grad.ubc.ca/awards/canada-graduate-scholarships-doctoral-cgs-d-program}{\textit{CGS D}}                                                                 | PhD (Canadian citizen or PR)                          | \$35000                                       | Mid September                   |                        |
+| \href{https://www.grad.ubc.ca/awards/nserc-postgraduate-scholarships}{\textit{PGS D}}                                                                                     | PhD (Canadian citizen or PR)                          | \$21000                                       | Mid September                   | Cassandra              |
+| \href{https://www.grad.ubc.ca/awards/vanier-scholarship}{\textit{Vanier Scholarship}}                                                                                     | PhD                                                   | \$50000                                       | Early September                 |                        |
+| \href{https://www.grad.ubc.ca/awards/affiliated-fellowships-doctoral-program}{\textit{Affiliated Fellowship Doctoral Program}}                                            | PhD                                                   | \$175 to \$30000                              | Mid September                   |                        |
+| \href{https://www.grad.ubc.ca/awards/affiliated-fellowships-masters-program}{\textit{Affiliated Fellowship Master’s Program}}                                             | Masters                                               | \$175 to \$16,000                             | Early December                  |                        |
+| \href{https://www.grad.ubc.ca/awards/graduate-student-travel-research-dissemination-fund}{\textit{Graduate Student Travel and Research Dissemination Fund}}               | Graduate                                              | Max \$500                                     | Year-round application          |                        |
+| \href{https://www.snmmi.org/AboutSNMMI/Content.aspx?ItemNumber=24724}{\textit{Bradley-Alavi Student Fellowship}}                                                          | Graduate                                              | \$3000                                        | February                        | Hassan, Saeed, Yansong |
+| \href{https://app.smarterselect.com/programs/68664-Society-Of-Nuclear-Medicine-And-Molecular-Imaging}{\textit{Medical \                                                   | Science Student Research Grant}}                      | Early graduate students                       | \$5000                          | February               | Shadab |
+| \href{https://gaf.aapm.org/}{\textit{AAPM / RSNA Doctoral and Masters Graduate Fellowship}}                                                                               | MSc/PhD students, enrolled in CAMPEP track            | \$10000                                       | Mid April                       |                        |
+| \href{https://www.aip.org/news/2015/aapm-expanding-horizons-travel-grants}{\textit{AAPM Expanding Horizons Travel Grant}}                                                 |                                                       | \$1000 (travel grants)                        | September                       | Saeed, Cassandra       |
+| \href{http://gaf.aapm.org/documents/programs/templates/63/home-page-flyer-7768.pdf}{\textit{Research Seed Funding Grant}}                                                 | Post-docs \textless 5 years after PhD                 | \$25000 (but not for salary)                  | May                             |                        |
+| \href{https://ieee-npss.org/awards/npss-awards/}{\textit{Glenn Knoll Award}}                                                                                              | Graduate/Post-doc + Member of IEEE and NPSS           | \$5000                                        | End January                     |                        |
+| \href{https://ieee-npss.org/awards/npss-awards/}{\textit{Graduate Scholarship Award}}                                                                                     | Graduate student in Nuclear and Plasma Sciences.      | \$15000                                       | End January                     |                        |
+| \href{https://ieee-npss.org/awards/npss-awards/}{\textit{Early Achievement Award}}                                                                                        | IEEE NPSS Member (within first 10 years in the field) | \$3000                                        | End January                     |                        |
+| \href{https://www.msfhr.org/1/fundingprogram/scholar-program}{\textit{Scholar program}}                                                                                   | Post-docs                                             | \$90000/year for 5 years                      | December/January                |                        |
+| \href{https://www.msfhr.org/1/fundingprogram/research-trainee-program}{\textit{Research Trainee program}}                                                                 | Post-docs                                             | \$45000/year for 3 years                      | December/February               |                        |
+| \multicolumn{5}{p{10cm}}{\href{https://wagsonline.org/awards/annual-wags-proquest-awards/}{\textbf{Annual WAGS \                                                          | ProQuest Awards}}}                                    |
+| \href{https://wagsonline.org/technology-award-announcement/}{\textit{Innovation in Technology Award}}                                                                     | Graduate                                              | \$1000                                        | October (internally, September) |                        |
+| \href{https://wagsonline.org/outstanding-thesis-stem-award/}{\textit{Distinguished Master’s Thesis Award in STEM}}                                                        | Masters                                               | \$1000                                        | October (internally, September) |                        |
+|                                                                                                                                                                           |                                                       |                                               |                                 |                        |
+| \href{https://www.nvidia.com/en-us/research/graduate-fellowships/}{\textit{Nvidia Graduate Fellowship}}                                                                   | PhDs beyond first year                                | \$50000                                       | September                       |                        |
+| \href{https://www.mitacs.ca/en/programs/accelerate}{\textit{Mitacs Accelerate}}                                                                                           | PhD/Post-doc                                          | 1 unit internship (4 months) = \$15000        | Year-round application          | Ivan, Shadab           |
+| \href{https://www.postdocs.ubc.ca/award/killam-postdoctoral-research-fellowship}{\textit{Killam Postdoctoral Research Fellowships}}                                       | Post-docs                                             | \$50000/year for 2 years and \$4000 (travel)  | November                        |                        |
+| \href{https://www.iaea.org/about/overview/gender-at-the-iaea/iaea-marie-sklodowska-curie-fellowship-programme}{\textit{IAEA Marie Sklodowska-Curie Fellowship Programme}} | Grad women (Masters)                                  | €20,000 (tuition cost), €20,000 (living cost) | September                       |                        |
+| \href{https://www.hfsp.org/}{\textit{HFSP (Human Frontier Science Program)}}                                                                                              | Post-docs                                             |                                               | May                             |                        |
+| \href{https://www.axa-research.org/en/page/AXA-Fellowships}{\textit{AXA foundation post-doc fellowships}}                                                                 | Post-docs \textless 5 years after PhD                 | 2 years upto Euro 125,000                     | May/June                        |                        |
 
-[*Mitacs Accelerate*](https://www.mitacs.ca/en/programs/accelerate) &
-PhD/Post-doc & 1 unit internship (4 months) = \$15000 & Year-round
-application & Ivan, Shadab\
 
-[*Killam Postdoctoral Research
-Fellowships*](https://www.postdocs.ubc.ca/award/killam-postdoctoral-research-fellowship)
-& Post-docs & \$50000/year for 2 years and \$4000 (travel) & November &\
-
-[*IAEA Marie Sklodowska-Curie Fellowship
-Programme*](https://www.iaea.org/about/overview/gender-at-the-iaea/iaea-marie-sklodowska-curie-fellowship-programme)
-& Grad women (Masters) & €20,000 (tuition cost), €20,000 (living cost) &
-September &\
-
-[*HFSP (Human Frontier Science Program)*](https://www.hfsp.org/) &
-Post-docs & & May &\
-
-[*AXA foundation post-doc
-fellowships*](https://www.axa-research.org/en/page/AXA-Fellowships) &
-Post-docs \<5 years after PhD & 2 years upto Euro 125,000 & May/June &\
-:::
-:::
 
 # Other Qurit resources
 
