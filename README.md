@@ -1,3 +1,10 @@
+# Table of Contents
+
+[Welcome Remarks](#Welcome)
+
+[Introduction to Qurit](#An-introduction-to-our-lab)
+
+
 # Welcome
 
 Dear Qurit Team Member!\
