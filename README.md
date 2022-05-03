@@ -322,8 +322,8 @@ There are several excellent sources for introductory and advanced
 medical imaging and image processing. Some selected ones are given
 below:
 
--   [PET Clinics, Volume 16, Issue 4, October
-    2021](https://www.sciencedirect.com/journal/pet-clinics/vol/16/issue/4):
+-   [*PET Clinics, Volume 16, Issue 4, October
+    2021*](https://www.sciencedirect.com/journal/pet-clinics/vol/16/issue/4):
     Contains many introductory articles contributed by several members
     (and collaborators) of our lab working in different areas of nuclear
     medicine.
@@ -358,9 +358,9 @@ relevant conferences where our members have contributed are given below.
 The submission deadlines to some of these conferences keep changing each
 year. Vist the conference links for the most updated information.
 
-| \textbf{Conference}                                                                       | \textbf{Abstract deadline (tentative)}                      | \textbf{Meeting date (tentative)} |
+| **Conference**                                                                       | **Abstract deadline (tentative)**                      | **Meeting date (tentative)** |
 |-------------------------------------------------------------------------------------------|-------------------------------------------------------------|-----------------------------------|
-| \href{https://am.snmmi.org/iMIS/SNMMI-AM}{SNMMI Annual Meeting}                           | 2nd week of January                                         | 2nd week of June                  |
+| [SNMMI Annual Meeting](https://am.snmmi.org/iMIS/SNMMI-AM)                           | 2nd week of January                                         | 2nd week of June                  |
 | \href{https://kuleuvencongres.be/fully3d-2021}{Fully 3D} (biennial odd years)             | Mid January                                                 | Mid June                          |
 | \href{http://www.miccai.org/}{MICCAI}                                                     | February (abstract), September (challenge)                  | September/October                 |
 | \href{https://www.midl.io/}{MIDL}                                                         | February (full paper), April (short paper)                  | Early July                        |
