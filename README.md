@@ -361,20 +361,20 @@ year. Vist the conference links for the most updated information.
 | **Conference**                                                                       | **Abstract deadline (tentative)**                      | **Meeting date (tentative)** |
 |-------------------------------------------------------------------------------------------|-------------------------------------------------------------|-----------------------------------|
 | [SNMMI Annual Meeting](https://am.snmmi.org/iMIS/SNMMI-AM)                           | 2nd week of January                                         | 2nd week of June                  |
-| \href{https://kuleuvencongres.be/fully3d-2021}{Fully 3D} (biennial odd years)             | Mid January                                                 | Mid June                          |
-| \href{http://www.miccai.org/}{MICCAI}                                                     | February (abstract), September (challenge)                  | September/October                 |
-| \href{https://www.midl.io/}{MIDL}                                                         | February (full paper), April (short paper)                  | Early July                        |
-| \href{https://www.wmis.org/}{WMIC}                                                        | March                                                       | 1st week of September             |
-| \href{https://www.aapm.org/meetings/}{AAPM}                                               | 1st week of March                                           | Mid July                          |
-| \href{https://vph-conference.org/}{VPH}                                                   | Mid March                                                   | Early September                   |
-| \href{https://www.lymphomapet.com/}{PILM}                                                 | Mid April or Early June                                     | Mid September                     |
-| \href{https://www.rsna.org/annual-meeting}{RSNA}                                          | Mid April                                                   | 1st week of December              |
-| \href{https://www.eanm.org/}{EANM}                                                        | Mid-to-End April                                            | Mid October                       |
-| \href{https://nssmic.ieee.org/2022/}{IEEE NSS MIC}                                        | Early May                                                   | October/November                  |
-| \href{https://nips.cc/}{NeurIPS}                                                          | Mid May (abstract), Early June (full paper)                 | December                          |
-| \href{https://spie.org/conferences-and-exhibitions/medical-imaging}{SPIE Medical Imaging} | Early August (abstract), Late January (full paper)          | Mid February                      |
-| \href{https://biomedicalimaging.org/2022/}{ISBI}                                          | October (4-page paper), Mid December/January (1-page paper) | Early April                       |
-| \href{https://mcma2022.com/}{MCMA}                                                        | Early December (4-page paper)                               | April                             |
+| [Fully 3D](https://kuleuvencongres.be/fully3d-2021) (biennial odd years)             | Mid January                                                 | Mid June                          |
+| [MICCAI](http://www.miccai.org/)                                                    | February (abstract), September (challenge)                  | September/October                 |
+| [MIDL](\https://www.midl.io/)                                                         | February (full paper), April (short paper)                  | Early July                        |
+| [WMIC](https://www.wmis.org/)                                                        | March                                                       | 1st week of September             |
+| [AAPM](https://www.aapm.org/meetings/)                                               | 1st week of March                                           | Mid July                          |
+| [VPH](https://vph-conference.org/)                                                   | Mid March                                                   | Early September                   |
+| [PILM](https://www.lymphomapet.com/)                                                 | Mid April or Early June                                     | Mid September                     |
+| [RSNA](https://www.rsna.org/annual-meeting)                                          | Mid April                                                   | 1st week of December              |
+| [EANM](https://www.eanm.org/)                                                        | Mid-to-End April                                            | Mid October                       |
+| [IEEE NSS MIC](https://nssmic.ieee.org/2022/)                                        | Early May                                                   | October/November                  |
+| [NeurIPS](https://nips.cc/)                                                          | Mid May (abstract), Early June (full paper)                 | December                          |
+| [SPIE Medical Imaging](https://spie.org/conferences-and-exhibitions/medical-imaging) | Early August (abstract), Late January (full paper)          | Mid February                      |
+| [ISBI](https://biomedicalimaging.org/2022/)                                          | October (4-page paper), Mid December/January (1-page paper) | Early April                       |
+| [MCMA](https://mcma2022.com/)                                                        | Early December (4-page paper)                               | April                             |
 
 
 
