@@ -1,8 +1,4 @@
----
-author:
-- An introductory guide for new students and post-docs joining Qurit
-title: Qurit
----
+
 
 # Welcome
 
