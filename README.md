@@ -5,7 +5,7 @@
 [Introduction to Qurit](#An-introduction-to-our-lab)
 
 
-# Welcome
+# 1. Welcome
 
 Dear Qurit Team Member!\
 We are so excited to welcome you to Team Qurit (pronounced Cure-It!).
