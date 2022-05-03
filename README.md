@@ -463,7 +463,7 @@ will add it.
 | [*Killam Postdoctoral Research Fellowships*](https://www.postdocs.ubc.ca/award/killam-postdoctoral-research-fellowship)                                       | Post-docs                                             | \$50000/year for 2 years and \$4000 (travel)  | November                        |                        |
 | [*IAEA Marie Sklodowska-Curie Fellowship Programme*](https://www.iaea.org/about/overview/gender-at-the-iaea/iaea-marie-sklodowska-curie-fellowship-programme) | Grad women (Masters)                                  | €20,000 (tuition cost), €20,000 (living cost) | September                       |                        |
 | [*HFSP (Human Frontier Science Program)*](https://www.hfsp.org/)                                                                                              | Post-docs                                             |                                               | May                             |                        |
-| [*AXA foundation post-doc fellowships*](https://www.axa-research.org/en/page/AXA-Fellowships)                                                                 | Post-docs \textless 5 years after PhD                 | 2 years upto Euro 125,000                     | May/June                        |                        |
+| [*AXA foundation post-doc fellowships*](https://www.axa-research.org/en/page/AXA-Fellowships)                                                                 | Post-docs 5 years after PhD                 | 2 years upto Euro 125,000                     | May/June                        |                        |
 
 
 
