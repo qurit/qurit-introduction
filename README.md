@@ -74,7 +74,7 @@ artificial intelligence) to state-of-the-art patient care and to impact
 quality of life. Our efforts include:
 
 -   Quantitative PET imaging methods for enhanced diagnosis, prognosis
-    and treatment response assessment of cancer patients (e.g. prostrate
+    and treatment response assessment of cancer patients (e.g. prostate
     cancer, lymphoma, lung cancer, etc.)
 
 -   Quantitative SPECT-based dosimetry in molecular radiotherapy of
