@@ -6,6 +6,18 @@
 
 [Our goals and vision](##Our-goals-and-visions)
 
+[Introductory videos](##Introductory-videos)
+
+[Qurit weekly meetings](##Qurit-weekly-meetings)
+
+[Qurit clusters](#Qurit-clusters)
+
+[Tutorials](#Tutorials)
+
+[UBC PHYS 541 (Nuclear Medicine course)](##UBC PHYS 541 (Nuclear Medicine course))
+
+
+
 # Welcome
 
 Dear Qurit Team Member!\
