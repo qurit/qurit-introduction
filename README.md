@@ -1,8 +1,8 @@
 # Table of Contents
 
-[Welcome Remarks](#Welcome)
+[Welcome](#Welcome)
 
-[Introduction to Qurit](#An-introduction-to-our-lab)
+[An introduction to our lab](#An-introduction-to-our-lab)
 
 
 # Welcome
