@@ -49,7 +49,7 @@
 [Leisure in Vancouver](##Leisure-in-Vancouver)
 
 
-# Welcome
+# 1. Welcome
 
 Dear Qurit Team Member!\
 We are so excited to welcome you to Team Qurit (pronounced Cure-It!).
@@ -60,7 +60,7 @@ to have you with us on this exciting journey that encompasses learning,
 researching, interacting, and ultimately making an impact in a
 world-wide effort to help cure cancer. Let's Qurit!
 
-# An introduction to our lab
+# 1. An introduction to our lab
 
 Cancer is a leading cause of death globally, and a very significant
 fraction of the population will develop cancer during their lifetime.
