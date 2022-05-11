@@ -16,6 +16,37 @@
 
 [UBC PHYS 541 (Nuclear Medicine course)](##UBC-PHYS-541-(Nuclear-Medicine-course))
 
+[Machine learning and deep learning (Practical approach)](##Machine-learning-and-deep-learning-(Practical-approach))
+
+[Statistical learning (Mathematical approach)](##Statistical-learning-(Mathematical-approach)
+
+[Medical imaging](##Medical-imaging)
+
+[Conferences](#Conferences)
+
+[Word of advice for abstract submissions](##Word-of-advice-for-abstract-submissions)
+
+[Grants and awards](#Grants-and-awards)
+
+[Other Qurit resources](#Other-Qurit-resources)
+
+[Qurit website](##Qurit-website)
+
+[GitHub](##GitHub)
+
+[YouTube channel: Qurit Research & Education](##YouTube-channel:-Qurit-Research-&-Education)
+
+[Qurit library](##Qurit-library)
+
+[Miscellaneous](#Miscellaneous)
+
+[Some thoughts](##Some-thoughts)
+
+[Take ownership](##Take-ownership)
+
+[Vacation](##Vacation)
+
+[Leisure in Vancouver](##Leisure-in-Vancouver)
 
 
 # Welcome
