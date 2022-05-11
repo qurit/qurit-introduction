@@ -3,7 +3,7 @@
 [Welcome](#Welcome)
 
 [An introduction to our lab](#An-introduction-to-our-lab)
-
+[Our goals and vision](##Our-goals-and-visions)
 
 # Welcome
 
@@ -40,7 +40,7 @@ General Electric, Siemens, Microsoft, and MIM. This gives our team
 members the opportunity to gain skills that are valuable for the
 translation of our developed methods to routine clinical practice.
 
-## Our Goals and Visions
+## Our goals and visions
 
 In Qurit, we aim to provide a training and mentoring environment to help
 discover the true potential within each of our members. We strive to
