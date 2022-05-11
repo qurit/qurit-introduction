@@ -14,7 +14,7 @@
 
 [Tutorials](#Tutorials)
 
-[UBC PHYS 541 (Nuclear Medicine course)](##UBC PHYS 541 (Nuclear Medicine course))
+[UBC PHYS 541 (Nuclear Medicine course)](##UBC-PHYS-541-(Nuclear-Medicine-course))
 
 
 
