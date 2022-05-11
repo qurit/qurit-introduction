@@ -3,6 +3,7 @@
 [Welcome](#Welcome)
 
 [An introduction to our lab](#An-introduction-to-our-lab)
+
 [Our goals and vision](##Our-goals-and-visions)
 
 # Welcome
