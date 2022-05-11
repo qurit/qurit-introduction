@@ -4,7 +4,7 @@
 
 [An introduction to our lab](#An-introduction-to-our-lab)
 
-[Our goals and vision](##Our-goals-and-visions)
+[Our goals and visions](##Our-goals-and-visions)
 
 [Introductory videos](##Introductory-videos)
 
