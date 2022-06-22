@@ -513,7 +513,7 @@ will add it.
 | [*IAEA Marie Sklodowska-Curie Fellowship Programme*](https://www.iaea.org/about/overview/gender-at-the-iaea/iaea-marie-sklodowska-curie-fellowship-programme) | Grad women (Masters)                                  | €20,000 (tuition cost), €20,000 (living cost) | September                       |                        |
 | [*HFSP (Human Frontier Science Program)*](https://www.hfsp.org/)                                                                                              | Post-docs                                             |                                               | May                             |                        |
 | [*AXA foundation post-doc fellowships*](https://www.axa-research.org/en/page/AXA-Fellowships)                                                                 | Post-docs 5 years after PhD                 | 2 years upto Euro 125,000                     | May/June                        |                        |
-| [*Fulbright Canada Research Chairs*](https://www.axa-research.org/en/page/AXA-Fellowships](https://www.fulbright.ca/programs/canadian-scholars/visiting-chairs-program.html)                                                                 | Canadian citizens with a PhD                 | USD 25,000-50,000                   | Mid November                       |                        |
+| [*Fulbright Canada Research Chairs*](https://www.fulbright.ca/programs/canadian-scholars/visiting-chairs-program.html)                                                                 | Canadian citizens with a PhD                 | USD 25,000-50,000                   | Mid November                       |                        |
 
 
 
